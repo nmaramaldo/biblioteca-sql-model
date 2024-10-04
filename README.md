@@ -1,4 +1,5 @@
 Biblioteca SQL Model
+
 Este repositório contém o modelo de banco de dados para uma biblioteca, incluindo tabelas para categorias, livros, autores, usuários e locações. Ele está organizado da seguinte maneira:
 
 create_tables.sql: Cria as tabelas do banco de dados.
